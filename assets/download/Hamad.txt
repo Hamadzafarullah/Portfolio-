@@ -1,0 +1,47 @@
+Hamad Zafarullah 
+(917)-480-8926| Hamadzafarullah@gmail.com | Brooklyn, NY | github.com/Hamadzafarullah | 
+
+Junior software developer
+
+SKILLS
+
+LANGUAGES: JavaScript, SQL, PHP, Python, HTML, CSS, React
+
+PROFICIENCIES: Database Architecture, Problem Solving, Linux/Unix, Optimization, Strategic Planning, Agile Scrum Team, Computer Architecture, Operating Systems, Data Structures, Version Repository, Web API, Node.js, Data Analysis, Web Scraping, Front-End Web Development, Full-Stack Web Development, Postgres, Apple IOS
+
+TOOLS: Microsoft Word, Microsoft Excel, Github, Trello, Microsoft PowerPoint, Slack, Postman
+
+PROJECTS 
+
+Memory tracer - https://github.com/Hamadzafarullah/Project1.git
+Used Javascript to create the cards, buttons and flip 
+Applied Git throughout the process for version control and tested features 
+
+
+
+
+Get Anime  - https://github.com/Hamadzafarullah/Project-2.git
+Used react to create Food recipe site
+Had to implement route-dom
+Had used external Api to bring in food data and routed it accordingly
+Implemented search functionality for user
+
+Travel App - https://github.com/Hamadzafarullah/project3-frontend.git
+Worked in a team of three 
+Has full CRUD functionality (Create, Read, Update, Delete)
+Made Full backend/frontend, Utilized MERN stack (Mongo, Express, React, Node, Mongoose\mongoDB)
+
+
+
+PROFESSIONAL EXPERIENCE
+
+NBJ contracting inc- Foremen, Brooklyn, NY                                	                              DATES   2019-2022
+Worked on managing work sites and making sure the client is happy with the work
+
+
+
+
+
+EDUCATION
+General Assembly, Software Engineering, 1/2023
+
